@@ -12,8 +12,8 @@
 
 ![My Skills](https://skillicons.dev/icons?i=js,ts,aws,nodejs,react,css,docker,express,git,graphql,gulp,html,jenkins,jest,mongodb,mysql,nestjs,postgres,redis,redux,sass,webpack&perline=12)
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=DanyloAksonov&show_icons=true&theme=dark&locale=en" alt="DanyloAksonov" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanyloAksonov&layout=compact&theme=dark" alt="DanyloAksonov" /></p>
+<p><img align="center" src="https://github-readme-stats-blond-ten-18.vercel.app/api?username=DanyloAksonov&show_icons=true&theme=dark&locale=en" alt="DanyloAksonov" /></p>
+<p><img align="center" src="https://github-readme-stats-blond-ten-18.vercel.app/api/top-langs/?username=DanyloAksonov&layout=compact&theme=dark" alt="DanyloAksonov" /></p>
 
 <!--
 **devAxick/devAxick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
